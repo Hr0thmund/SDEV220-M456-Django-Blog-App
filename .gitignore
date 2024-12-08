@@ -1,0 +1,9 @@
+.env
+myvenv/
+db.sqlite3
+/static/
+*.pyc
+*~
+__pycache__
+mysite/settings.py
+
