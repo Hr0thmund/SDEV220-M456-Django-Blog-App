@@ -1,0 +1,7 @@
+h1 a, h2 a {
+	color: #2791B7;
+    font-family: 'Oxanium';
+}
+body {
+	padding-left: 15px;
+}
